@@ -1,0 +1,10 @@
+#map{
+    width: 100%;
+    height: 800px;
+}
+
+button{
+    font-size: 18px;
+    padding: 10px 15px;
+    cursor: pointer;
+}
